@@ -1,0 +1,456 @@
+"Phrases"
+{
+	"EW_Tag"
+	{
+		"chi" 	"[EntWatch]"
+	}
+	"Welcome"
+	{
+		"chi" 	"当前地图已配置Entwatch."
+	}
+	"Use"
+	{
+		"chi" 	"使用了"
+	}
+	"Pickup"
+	{
+		"chi" 	"拾取"
+	}
+	"Drop"
+	{
+		"chi" 	"丢弃"
+	}
+	"Death"
+	{
+		"chi" 	"死亡拥有"
+	}
+	"Death and drop"
+	{
+		"chi" 	"已经死亡并丢弃了"
+	}
+	"Disconnect"
+	{
+		"chi" 	"断开连接 拥有"
+	}
+	"Disconnect and drop"
+	{
+		"chi" 	"已断开连接 并丢弃了"
+	}
+	"Enabled"
+	{
+		"chi" 	"启用"
+	}
+	"Disabled"
+	{
+		"chi" 	"禁用"
+	}
+	"Hud"
+	{
+		"chi" 	"现在HUD显示已"
+	}
+	"Hud Position"
+	{
+		"chi" 	"HUD位置"
+	}
+	"Hud Color"
+	{
+		"chi" 	"HUD 颜色"
+	}
+	"Wrong"
+	{
+		"chi" 	"错误"
+	}
+	"Saved"
+	{
+		"chi" 	"保存"
+	}
+	"Usage"
+	{
+		"chi" 	"使用"
+	}
+	"Restricted"
+	{
+		"chi" 	"限制"
+	}
+	"Unrestricted"
+	{
+		"chi" 	"无限制"
+	}
+	"Duration"
+	{
+		"chi" 	"时长"
+	}
+	"EBan Duration for"
+	{
+		"chi" 	"EBan 时长"
+	}
+	"EBan Reason for"
+	{
+		"chi" 	"EBan 原因"
+	}
+	"Temporary"
+	{
+		"chi" 	"临时"
+	}
+	"Permanently"
+	{
+		"chi" 	"永久"
+	}
+	"For Minutes"
+	{
+		"#format"	"{1:i}"
+		"chi" 	"for {1} 分钟"
+	}
+	"Issued"
+	{
+		"chi" 	"发给"
+	}
+	"Reason"
+	{
+		"chi" 	"原因"
+	}
+	"Currently Eban"
+	{
+		"chi" 	"Currently e-banned"
+	}
+	"Player"
+	{
+		"chi" 	"玩家"
+	}
+	"Admin"
+	{
+		"chi" 	"Admin"
+	}
+	"No EBans"
+	{
+		"chi" 	"No EBans"
+	}
+	"No owner"
+	{
+		"chi" 	"No owner"
+	}
+	"No Receivers"
+	{
+		"chi" 	"No Receivers"
+	}
+	"No Players"
+	{
+		"chi" 	"No Players"
+	}
+	"Already EBanned"
+	{
+		"chi" 	"Already EBanned"
+	}
+	"Already UnEBanned"
+	{
+		"chi" 	"Already UnEBanned"
+	}
+	"Restricted By"
+	{
+		"chi" 	"restricted by"
+	}
+	"Invalid item name"
+	{
+		"chi" 	"Invalid item name"
+	}
+	"Has a Restrict"
+	{
+		"chi" 	"has a restrict"
+	}
+	"Transfered all items"
+	{
+		"chi" 	"转移 所有物品来自"
+	}
+	"Transfered"
+	{
+		"chi" 	"转移"
+	}
+	"Differs team"
+	{
+		"chi" 	"接受者队伍与目标队伍不同"
+	}
+	"Already owns"
+	{
+		"chi" 	"接收者已拥有这个"
+	}
+	"Target has no items"
+	{
+		"chi" 	"Target has no items"
+	}
+	"EW to"
+	{
+		"chi" 	"to"
+	}
+	"Item targets"
+	{
+		"chi" 	"物品目标"
+	}
+	"Item to Spawn"
+	{
+		"chi" 	"Item to Spawn"
+	}
+	"Player is not valid anymore"
+	{
+		"chi" 	"Player is not valid anymore"
+	}
+	"Receiver is not valid anymore"
+	{
+		"chi" 	"Receiver is not valid anymore"
+	}
+	"The player must be in one of the teams"
+	{
+		"chi" 	"The player must be in one of the teams"
+	}
+	"PT configuration not found"
+	{
+		"chi" 	"The item has no corresponding configuration"
+	}
+	"PT configuration Error"
+	{
+		"chi" 	"Point_Template not found"
+	}
+	"Item not available"
+	{
+		"chi" 	"Item is no longer available"
+	}
+	"EntWatch Commands"
+	{
+		"chi" 	"EntWatch 命令"
+	}
+	"EntWatch Commands Title"
+	{
+		"chi" 	"[EntWatch] 命令"
+	}
+	"List of Items"
+	{
+		"chi" 	"物品清单"
+	}
+	"EBan a Player"
+	{
+		"chi" 	"EBan a Player"
+	}
+	"List of EBan"
+	{
+		"chi" 	"List of EBan"
+	}
+	"Spawn an Item"
+	{
+		"chi" 	"Spawn an Item"
+	}
+	"Restrict Player"
+	{
+		"chi" 	"Restrict player"
+	}
+	"EBan Info"
+	{
+		"chi" 	"EBan Info"
+	}
+	"Transfer Item"
+	{
+		"chi" 	"Transfer Item"
+	}
+	"UnEBan a Player"
+	{
+		"chi" 	"UnEBan a Player"
+	}
+	"Receiver of the Item"
+	{
+		"chi" 	"Receiver of the Item"
+	}
+	"Item Info"
+	{
+		"chi" 	"Item Info"
+	}
+	"Owner"
+	{
+		"chi" 	"Owner"
+	}
+	"Mode"
+	{
+		"chi" 	"模式"
+	}
+	"CoolDown"
+	{
+		"chi" 	"冷却"
+	}
+	"Max Uses"
+	{
+		"chi" 	"最大使用"
+	}
+	"Mode Default"
+	{
+		"chi" 	"Spam protection only"
+	}
+	"Mode 2"
+	{
+		"chi" 	"冷却"
+	}
+	"Mode 3"
+	{
+		"chi" 	"Limited uses"
+	}
+	"Mode 4"
+	{
+		"chi" 	"Limited uses with cooldowns"
+	}
+	"Mode 5"
+	{
+		"chi" 	"Cooldowns after multiple uses"
+	}
+	"Minutes"
+	{
+		"chi" 	"分"
+	}
+	"Hour"
+	{
+		"chi" 	"时"
+	}
+	"Day"
+	{
+		"chi" 	"天"
+	}
+	"Week"
+	{
+		"chi" 	"周"
+	}
+	"Month"
+	{
+		"chi" 	"月"
+	}
+	"Item misuse"
+	{
+		"chi" 	"Item misuse"
+	}
+	"Trolling on purpose"
+	{
+		"chi" 	"Trolling on purpose"
+	}
+	"Throwing item away"
+	{
+		"chi" 	"Throwing item away"
+	}
+	"Not using an item"
+	{
+		"chi" 	"Not using an item"
+	}
+	"Trimming team"
+	{
+		"chi" 	"Trimming team"
+	}
+	"Spamming an item"
+	{
+		"chi" 	"Spamming an item"
+	}
+	"Not listening to leader"
+	{
+		"chi" 	"Not listening to leader"
+	}
+	"Other"
+	{
+		"chi" 	"其他"
+	}
+	"Expires"
+	{
+		"chi" 	"到期"
+	}
+	"On Map Change"
+	{
+		"chi" 	"当地图变更"
+	}
+	"Never"
+	{
+		"chi" 	"从未"
+	}
+	"Spawn Item"
+	{
+		"chi" 	"产生 物品"
+	}
+	"On Player"
+	{
+		"chi" 	"在玩家"
+	}
+	"List to Spawn"
+	{
+		"chi" 	"列出地图物品"
+	}
+	"Strip Weapon"
+	{
+		"chi" 	"剥离 武器"
+	}
+	"Not Strip Weapon"
+	{
+		"chi" 	"不要 剥离 武器"
+	}
+	"Recipient of a New Item"
+	{
+		"chi" 	"Recipient of a New Item"
+	}
+	"No Items for Spawn"
+	{
+		"chi" 	"No Items for Spawn"
+	}
+	"Is not restricted"
+	{
+		"chi" 	"is not restricted"
+	}
+	"Status restricted"
+	{
+		"chi" 	"You are currently restricted"
+	}
+	"Status unrestricted"
+	{
+		"chi" 	"You are currently unrestricted"
+	}
+	"Default"
+	{
+		"chi" 	"Default"
+	}
+	"Hud Names"
+	{
+		"chi" 	"Names in HUD are"
+	}
+	"Offline EBan"
+	{
+		"chi" 	"Offine EBan"
+	}
+	"Offline Restricted"
+	{
+		"chi" 	"offline restricted"
+	}
+	"List of Disconnected Players"
+	{
+		"chi" 	"List of Disconnected Players"
+	}
+	"Minutes Ago"
+	{
+		"chi" 	"minutes ago"
+	}
+	"Info Offline Player"
+	{
+		"chi" 	"Info Offline Player"
+	}
+	"Came out"
+	{
+		"chi" 	"Came out"
+	}
+	"Last Item"
+	{
+		"chi" 	"Last Item"
+	}
+	"Not have permission pEBan"
+	{
+		"chi" 	"You do not have permission to permanently EBan"
+	}
+	"Not have permission lEBan"
+	{
+		"chi" 	"You do not have permission to EBan longer than 12 hours"
+	}
+	"Not have permission rEBan"
+	{
+		"chi" 	"You do not have permission to remove permanent EBans"
+	}
+	"Use Priority"
+	{
+		"chi" 	"优先使用"
+	}
+}

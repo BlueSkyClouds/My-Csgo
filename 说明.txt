@@ -1,0 +1,19 @@
+csgo 更新可能会导致particle_fix 失效 自行选择性使用  加载游戏直接崩溃可尝试删除该拓展
+
+test.nav 是用来自动给没有nav的地图生成nav用的 就无需手动复制一份nav
+
+cfg\entwatch\maps  entwatch神器显示配置
+
+ammo 无限备弹
+
+zr_test 碰撞防止tp电脑卡在一起报红字
+
+常用部分指令
+sm_warmup  启用关闭热身
+sm_aim_info  显示鼠标所指实体信息
+sm_room       快捷搜索跳关房
+
+sm_cash @me 金钱 设置金钱
+sm_weaponfastspeed 加快武器射速
+
+sm_reloadmap  重新加载当前地图
