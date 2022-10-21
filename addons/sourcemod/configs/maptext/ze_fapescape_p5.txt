@@ -1,0 +1,44 @@
+"Console_T"
+{
+	"*** Level 1 ***"
+	{
+		"chi"		"**第1关**"
+		"DoorCountdown"	"-1"
+	}
+	"*** Door opens in 35 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"* Turning music on *"
+	{
+		"chi"		"** **"
+	}
+	"*** Door opens in 25 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 10 seconds left ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door is Opening ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door Opening in 25 seconds! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FALL BACK ***"
+	{
+		"chi"		"** **"
+	}
+	">>> Hold for 15 seconds! <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Hold for a bit more! <<<"
+	{
+		"chi"		"** **"
+	}
+}
